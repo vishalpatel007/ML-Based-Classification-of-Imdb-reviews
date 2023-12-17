@@ -21,10 +21,10 @@ The project uses a dataset of 50,000 IMDb movie reviews split evenly for trainin
 The primary addition to the methodology is the implementation of XGBoost as an ensemble model to enhance classification accuracy.
 
 ## How to Run
-Detailed instructions on setting up the environment and running the code are provided in the README.
+There will be two jupyter notebooks one is for existing methodology reproducibility and second jupyter notebook is for our new implemented methodology to run both require train data and test data should be located in the same path as these notebooks folder and the data needed to be extracted from movie_data.tar.gz available in this repo. It has two txt files 1 full_train.txt and full_test.txt one is for training data and another is to evaluate the model.
 
 ## Results
-The results of various models, including XGBoost, are discussed and compared in terms of accuracy and other relevant metrics.
+The results of various models, including XGBoost, are discussed and compared in terms of accuracy and other relevant metrics in the jupyter notebooks itself.
 
 ## Future Work
 Suggestions for potential improvements and variations are provided for future exploration.
